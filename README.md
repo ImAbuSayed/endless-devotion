@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/endless-devotion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Endless Devotion](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/endless-devotion/) |
+| **Get License** | [Commercial Licensing for Endless Devotion](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/endless-devotion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> There is a fire in the dark when you look at me
+> A slow burning rhythm that sets my soul free
+> I just want to get lost in the warmth of your skin
+> And let this sweet midnight of ours now begin
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
