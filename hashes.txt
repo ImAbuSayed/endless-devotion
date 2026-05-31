@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Endless Devotion
+
+This log tracks the cryptographic history and versioning for the song **Endless Devotion** (endless-devotion).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-31T15:11:13.736135 | `v1` | `8112455090ba94f07f8ab0215a924f2cd072343a5f0187e743ea6328e99add26` | `d1eabdda94645c555a21743e241af9dcbca7c397e6684b9898f24db38dd056cf` | `2026-05-31_endless-devotion-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
